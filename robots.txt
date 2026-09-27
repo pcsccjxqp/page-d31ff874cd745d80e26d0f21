@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.kayuke.cn/sitemap.xml
